@@ -1,0 +1,49 @@
+General Instructions : 
+
+There are totally five Tasks that you are supposed to complete
+There will be a total of 3 files for the five tasks
+For all the tasks the input data file has to be used as it is. No editing is allowed.
+
+
+Task1 :
+Data file : Data_005_EDA
+Problems to solve : Refer to the file Data Exploration.docx
+Programming Language : R/Python
+
+Task2 : 
+Data file : CreditCardDefault_Classification.csv
+Problems to solve : Perform an Extensive EDA on the data with graphs. Try to provide insights into the data.
+More points if you can make a story out of your data.
+Programming Language : R/Python
+
+
+Task 3:
+
+Data file : Shop_Sales_Regression.csv
+Problem to solve : formulate 2 hypothesis using the dataset provided above and write code to test the hypothesis. The hypothesis can be accepted or rejected. Please ensure that you document results in the code as comments.
+Programming Language : R/Python
+
+
+Task 4:
+
+Data file : CreditCardDefault_Classification.csv
+Problem to solve : Create a machine learning model to classify the last column of the data set.
+Points depends on the accuracy of the model. Ensure the data is divided in to test and train. The accuracy of the test data will be considered.
+Programming Language : R/Python
+
+
+
+Task 5 :
+
+Data file : Shop_Sales_Regression.csv
+Problem to solve : Create a machine learning model to predict the last column of the data set.
+Points depends on the adjusted R-squared value of the model. Ensure the data is divided in to test and train. The R-squared value of the test data will be considered.
+Programming Language : R/Python
+
+
+
+1. EDA
+2. EDA
+3. Hypothesis
+4. Classification
+5. Prediction
